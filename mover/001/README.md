@@ -1,21 +1,21 @@
 ## Basic Information
-- Sui Wallet Address: `0x0000xxx`
+- Sui Wallet Address: `0x476aa5cda4a10276eb02d9b38e148c5186915cd47c5dffbf1ef14d4af3083263`
 > First-time participants must complete the registration of the wallet address through the first task to have it merged. You should use this address for subsequent tasks. We will also use this address to credit the learning rewards.
-- Github: `your_github_id`
+- Github: `meomun1`
 
 ## Personal Introduction
-- Work Experience: `X years`
-- Tech Stack: `Rust` `C++` , etc.
-> Important: Please take your personal introduction seriously.
-- Years of experience in web2 development, particularly interested in Move, aiming to use Move as an entry point into blockchain. (This is just an example, please write your own introduction and feel free to add more details.)
-- Contact: telegram `xxx`
+- Work Experience: `1 year`
+- Tech Stack: `Move` `Rust` `Java` `JavaScript`
+> Important: I'm a software developer and focus on blockchain development. I can learn fast and want to explore more things specialized in finance and tech
+- Year of experience in web2 development, particularly interested in Move, aiming to use Move as an entry point into blockchain. 
+- Contact: telegram `@maluong1504`
 
 ## Tasks
 
 ### 01 hello move
-- [ ] Sui CLI Version: 
+- [ ] Sui CLI Version: sui 1.37.2
 - [ ] Sui Wallet Screenshot: Link to image uploaded to `images` folder.
-- [ ] Package ID:
+- [ ] Package ID: 0x2b7da2ffea7562cca142b42ecbffcb98abf6530e2eac2bf6adbe24709b1056fe
 - [ ] Package ID's Screenshot from Explorer: Link to image uploaded to `images` folder.
 
 ### 02 move coin
